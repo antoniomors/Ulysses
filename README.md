@@ -1,3 +1,3 @@
-# Ulysses
+# Penelope's Odyssey 
 An old school labyrinth game
-<img width="348" alt="Screenshot 2022-07-01 at 21 50 14" src="https://user-images.githubusercontent.com/92628355/176962312-5e03f2ff-3f39-4a06-ab58-e97ba224bc3a.png">
+<img width="855" alt="Screenshot 2022-07-29 at 10 08 06" src="https://user-images.githubusercontent.com/92628355/181714467-edd8ec83-81ad-45cb-b470-0695c885c8be.png">
